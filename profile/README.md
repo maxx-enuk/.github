@@ -15,4 +15,4 @@ Every repo here is either live infrastructure for one of these businesses, or a 
 
 ---
 
-*Built and run by [Max](https://github.com/enuk-max).*
+*Built and run by [Maxwell Carling-Currin](https://github.com/enuk-max).*
